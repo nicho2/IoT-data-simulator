@@ -12,7 +12,10 @@ public enum SchemaRootMetadataType {
     CSV("csv"),
 
     /** **/
-    JSON("json");
+    JSON("json"),
+
+    /** **/
+    RAW("raw");
 
 
     /** **/
